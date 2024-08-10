@@ -14,7 +14,7 @@ To run the notebook, follow these steps:
 
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/shaadclt/TextAutocomplete-LSTM-pytorch.git
+git clone https://github.com/06Gagan/Text-Autocompletion-LSTM.git
 ```
 2. Open the Jupyter Notebook **autocomplete_LSTM.ipynb** in your preferred environment.
 3.Execute each cell in the notebook sequentially.
